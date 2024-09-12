@@ -6,3 +6,8 @@ The Hotel Booking Analysis dataset includes information about the booking freque
 For this project we will analysing Hotel Booking data. This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, or babies, and the number of available parking spaces.
 
 Hotel industry is a very voltile industry and the booking depends on above factors and many more. Our main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
+
+## Problem Statement
+The goal of this analysis is to examine the patterns in hotel booking data to identify key trends and factors that influence customer booking decisions. Specifically, the analysis will focus on understanding the relationship between the number of bookings, the type of booking (e.g. online vs. direct), the price of the room, and the customer preferences (e.g. amenities, location, etc.). By understanding these relationships, hotel operators can better understand their customer base and optimize their pricing strategies to maximize profits.
+
+The main objective behind this project is to explore and analyse data to discover important factor that govern the bookings and give insights to hotel management, which can perform various campaigns to boost the business and performance.
