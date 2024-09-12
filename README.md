@@ -11,3 +11,27 @@ Hotel industry is a very voltile industry and the booking depends on above facto
 The goal of this analysis is to examine the patterns in hotel booking data to identify key trends and factors that influence customer booking decisions. Specifically, the analysis will focus on understanding the relationship between the number of bookings, the type of booking (e.g. online vs. direct), the price of the room, and the customer preferences (e.g. amenities, location, etc.). By understanding these relationships, hotel operators can better understand their customer base and optimize their pricing strategies to maximize profits.
 
 The main objective behind this project is to explore and analyse data to discover important factor that govern the bookings and give insights to hotel management, which can perform various campaigns to boost the business and performance.
+
+##  Solution to Business Objective
+What do I suggest the client to achieve Business Objective ?
+Increase the visibility of the hotel by optimizing for local SEO and using digital marketing channels such as Google Ads, Facebook Ads, and other relevant social media platforms.
+
+Utilize email marketing campaigns to reach potential customers and promote targeted offers.
+
+Set up targeted campaigns with influencers and social media personalities to promote the hotel’s offerings.
+
+Implement a loyalty program to reward repeat customers and encourage them to book with the hotel again.
+
+Build relationships with travel agents, tour operators, and other hotel booking websites to increase the hotel’s reach.
+
+Utilize data and insights to identify customer preferences and tailor offers to meet their needs.
+
+Create a user-friendly website and mobile app to increase user engagement and make booking easier.
+
+Utilize online travel agents and hotel booking websites to increase visibility and bookings.
+
+Leverage technology to provide a seamless customer experience.
+
+Use booking engine software to streamline the booking process.
+
+## Conclusion
