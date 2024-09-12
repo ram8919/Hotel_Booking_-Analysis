@@ -35,3 +35,33 @@ Leverage technology to provide a seamless customer experience.
 Use booking engine software to streamline the booking process.
 
 ## Conclusion
+
+City hotels are the most preferred hotel type by the guests. We can say City hotel is the busiest hotel.
+
+27.5 % bookings were got cancelled out of all the bookings.
+
+Only 3.9 % people were revisited the hotels. Rest 96.1 % were new guests. Thus retention rate is low.
+
+The percentage of 0 changes made in the booking was more than 82 %. Percentage of Single changes made was about 10%.
+
+Most of the customers (91.6%) do not require car parking spaces.
+
+79.1 % bookings were made through TA/TO (travel agents/Tour operators).
+
+BB( Bed & Breakfast) is the most preferred type of meal by the guests.
+
+Maximum number of guests were from Portugal, i.e. more than 25000 guests.
+
+Average ADR for city hotel is high as compared to resort hotels. These City hotels are generating more revenue than the resort hotels.
+
+Booking cancellation rate is high for City hotels which almost 30 %.
+
+Average lead time for resort hotel is high.
+
+Waiting time period for City hotel is high as compared to resort hotels. That means city hotels are much busier than Resort hotels.
+
+Resort hotels have the most repeated guests.
+
+Optimal stay in both the type hotel is less than 7 days. Usually people stay for a week.
+
+Almost 19 % people did not cancel their bookings even after not getting the same room which they reserved while booking hotel. Only 2.5 % people cancelled the booking.
